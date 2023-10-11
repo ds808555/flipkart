@@ -19,6 +19,7 @@ public class CookbookAssignment {
 		driver.findElement(By.xpath("//input[@value = 'ABS']")).click();
 
 		// Pausing execution of program just to see result not for Element to be available
+		// Aplying Thread.sleep
 		Thread.sleep(4000);
 	}
 

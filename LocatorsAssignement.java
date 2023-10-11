@@ -27,13 +27,6 @@ public class LocatorsAssignement {
 		text.click();
 		
 		Thread.sleep(5000);
-		
-		/*
-		 * WebElement button = driver
-		 * .findElement(with(By.tagName("button")).toRightOf(By.
-		 * xpath("//button[@id = 'knowgoa']"))); button.click();
-		 */
-
 	}
 
 	@BeforeMethod
